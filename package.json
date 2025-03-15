@@ -1,0 +1,23 @@
+{
+  "name": "checker-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "yaxingson <3228891558@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "@types/webpack-sources": "^3.2.3",
+    "eslint": "^9.22.0",
+    "typescript": "^5.8.2",
+    "webpack": "^5.98.0"
+  },
+  "dependencies": {
+    "webpack-sources": "^3.2.3"
+  }
+}
