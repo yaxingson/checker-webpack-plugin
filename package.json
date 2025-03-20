@@ -1,6 +1,6 @@
 {
-  "name": "checker-webpack-plugin",
-  "version": "1.0.0",
+  "name": "mcp-webpack-plugin",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
