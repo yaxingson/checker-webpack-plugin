@@ -1,1 +1,1 @@
-# checker-webpack-plugin
+# mcp-webpack-plugin
